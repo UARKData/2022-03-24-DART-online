@@ -101,12 +101,6 @@ displayed if the 'eventbrite' field in the header is not set.
   scrolling="auto">
 </iframe>
 {% endif %}
-
-
-<h2 id="general">General Information</h2>
-
-{% comment %}
-
 <strong>The University of Arkansas' participation in the Carpentries is sponsored by the <a href= "https://libraries.uark.edu">University of Arkansas Libraries</a></strong>
 
 <h2>Register Now!</h2>
@@ -136,6 +130,12 @@ displayed if the 'eventbrite' field in the header is not set.
 </style>
 </td> </tr>
     </table>
+
+<h2 id="general">General Information</h2>
+
+{% comment %}
+
+
 
 INTRODUCTION
 
